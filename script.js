@@ -19,7 +19,7 @@ async function loadEvent() {
     rootElement.insertAdjacentHTML('beforeend', countryHTML);
   }
   
-
+ 
   /*const peruO = peru[0];
   console.log(peruO);
 
